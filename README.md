@@ -2,7 +2,7 @@
 - 👀 I’m interested in cloud security (Azure/M365)
 - 🌱 I’m currently learning BAC/AT
 - 💞️ I’m looking to collaborate on cloud security
-- 📫 How to reach me in the deakweb
+- 📫 How to reach me in the darkweb
 
 <!---
 3rdsphere/3rdsphere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
